@@ -1,0 +1,9 @@
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\bin\Debug\ArrayExample.exe.config
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\bin\Debug\ArrayExample.exe
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\bin\Debug\ArrayExample.pdb
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.FindIndexUI.resources
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.Properties.Resources.resources
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.csproj.GenerateResource.Cache
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.exe
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\ArrayExample\obj\Debug\ArrayExample.pdb

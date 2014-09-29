@@ -1,0 +1,6 @@
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\bin\Debug\27Sep2014_Code Examples.exe.config
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\bin\Debug\27Sep2014_Code Examples.exe
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\bin\Debug\27Sep2014_Code Examples.pdb
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\obj\Debug\27Sep2014_Code Examples.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\obj\Debug\27Sep2014_Code Examples.exe
+D:\BASIS Training Contents\OOP0150\26 Sep 2014\27Sep2014_Code Examples\27Sep2014_Code Examples\obj\Debug\27Sep2014_Code Examples.pdb
